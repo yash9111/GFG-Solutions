@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GFG POTD",
-      "program": "d:/GFG POTD/build/Debug/outDebug",
+      "cwd": "c:/Users/ypath/OneDrive/Desktop/GFG POTD",
+      "program": "c:/Users/ypath/OneDrive/Desktop/GFG POTD/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
